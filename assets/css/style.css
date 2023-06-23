@@ -19,7 +19,7 @@ header {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    min-height: 200px;
+    min-height: 300px;
 }
 
 .name {
@@ -98,4 +98,21 @@ header {
 
 .nav-info {
     padding-left: 0;
+}
+
+.holding {
+    min-height: 320px;
+}
+
+footer {
+    background-color: #525252;
+    color: #fafafa;
+    min-height: 150px;
+    margin: 0;
+}
+
+.social a {
+    width: 100%;
+    text-decoration: none;
+    color: #ffffff;
 }
